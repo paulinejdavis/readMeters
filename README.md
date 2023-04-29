@@ -30,22 +30,22 @@ python 3.8.10
 ```
 
 ```
-[python3 main.py meter_readings]
+`python3 main.py meter_readings`
 
 ```
 
-[python3 main.py meter_readings --valid]
+`python3 main.py meter_readings --valid`
 
 
-[python3 main.py meter_readings --count]
+`python3 main.py meter_readings --count`
 
 ## Ouputs
 
 ### Command Line outputs
- <img src='images/data.png'/> 
+ 
+<img width="733" alt="data" src="https://user-images.githubusercontent.com/111147520/235308021-4495dd60-bb1d-4f81-9747-1b85237e6ff5.png">
 
-  <img src='images/countValidReading.png'/> 
-
+<img width="518" alt="countValidReading" src="https://user-images.githubusercontent.com/111147520/235308026-a049b82c-8c70-4e1d-894b-902f3d6001a4.png">
 
 
 ## File Schema
