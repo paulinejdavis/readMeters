@@ -42,10 +42,9 @@ python 3.8.10
 ## Ouputs
 
 ### Command Line outputs
- 
-<img width="733" alt="data" src="https://user-images.githubusercontent.com/111147520/235308021-4495dd60-bb1d-4f81-9747-1b85237e6ff5.png">
 
-<img width="518" alt="countValidReading" src="https://user-images.githubusercontent.com/111147520/235308026-a049b82c-8c70-4e1d-894b-902f3d6001a4.png">
+<img width="733" alt="Screenshot 2023-04-29 at 15 14 32" src="https://user-images.githubusercontent.com/111147520/235308133-27e174f4-b34b-4c65-96ea-423d7e8a1765.png">
+<img width="733" alt="Screenshot 2023-04-29 at 15 14 32" src="https://user-images.githubusercontent.com/111147520/235308138-9e397825-7300-4247-8854-85625142b79f.png">
 
 
 ## File Schema
