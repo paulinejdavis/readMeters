@@ -24,6 +24,7 @@ Clone this repository:
 git clone https://github.com/paulinejdavis/meterRead_app.git
 
 ```
+```
 cd meterRead
 python3 --version
 python 3.8.10
