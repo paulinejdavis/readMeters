@@ -77,6 +77,13 @@ def parse_file(file_path):
 # value labeled "|V|".
 
 
+def sum_valid_readings(file_path):
+    with open(file_path, 'r') as file:
+        valid_readings = sum(
+            1 for line in file if 'READING' in line and '|V|' in line)
+    return valid_readings
+
+
 # main function takes in an input file, and allows the user to specify
 # whether they want to count the number of meters in the file or find
 # the sum of all valid meter readings in the file. If neither option
