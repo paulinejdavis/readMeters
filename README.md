@@ -1,5 +1,8 @@
 # Meter Readings
  <img width="100" alt="arrow" src="https://user-images.githubusercontent.com/19231569/213458967-d77d1ede-cbb8-4cda-8d58-7ac2a1c70503.png">
+ 
+ 
+<img width="651" alt="Screenshot 2023-04-29 at 15 36 14" src="https://user-images.githubusercontent.com/111147520/235308463-58cab4c4-f2b6-44b1-af28-347f259201e1.png">
 
 ### Summary
 The exercise containts a lot of messages which are sent between different participants in the form of “flows”. Flows are texted base files, and the information included in the flow is dependent on a schema. We want you to develop a command-line utility to read a flow containing meter readings (provided in a separate file).
@@ -44,8 +47,7 @@ python 3.8.10
 
 ### Command Line outputs
 
-<img width="733" alt="Screenshot 2023-04-29 at 15 14 32" src="https://user-images.githubusercontent.com/111147520/235308133-27e174f4-b34b-4c65-96ea-423d7e8a1765.png">
-<img width="733" alt="Screenshot 2023-04-29 at 15 14 32" src="https://user-images.githubusercontent.com/111147520/235308138-9e397825-7300-4247-8854-85625142b79f.png">
+<img width="666" alt="Screenshot 2023-04-29 at 15 34 56" src="https://user-images.githubusercontent.com/111147520/235308436-77c70b88-7e12-42e4-87cc-974eb74fbac1.png">
 
 
 ## File Schema
