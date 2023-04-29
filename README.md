@@ -1,5 +1,5 @@
 # Meter Readings
- <img width="100" alt="arrow" src="https://user-images.githubusercontent.com/19231569/213458967-d77d1ede-cbb8-4cda-8d58-7ac2a1c70503.png">
+
  
  
 <img width="651" alt="Screenshot 2023-04-29 at 15 36 14" src="https://user-images.githubusercontent.com/111147520/235308463-58cab4c4-f2b6-44b1-af28-347f259201e1.png">
@@ -48,6 +48,8 @@ python 3.8.10
 ### Command Line outputs
 
 <img width="666" alt="Screenshot 2023-04-29 at 15 34 56" src="https://user-images.githubusercontent.com/111147520/235308436-77c70b88-7e12-42e4-87cc-974eb74fbac1.png">
+
+ <img width="100" alt="arrow" src="https://user-images.githubusercontent.com/19231569/213458967-d77d1ede-cbb8-4cda-8d58-7ac2a1c70503.png">
 
 
 ## File Schema
